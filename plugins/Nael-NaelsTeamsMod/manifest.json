@@ -1,9 +1,0 @@
-{
-  "name": "NaelsTeamsMod",
-  "version_number": "0.4.17",
-  "website_url": "",
-  "description": "BepInEx team mode prototype for Super Battle Golf 1.1.2-436 with Mode dropdown, Red/Blue drag lists, native TAB team headers, team colors, and friendly-fire blocking.",
-  "dependencies": [
-    "BepInEx-BepInExPack-5.4.2304"
-  ]
-}
