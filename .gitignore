@@ -1,0 +1,12 @@
+cache/
+config/
+core/
+patchers/
+LogOutput.log
+
+ModernTeamMode/dist/*
+!ModernTeamMode/dist/NaelsTeamsMod-0.4.17.dll
+
+plugins/*
+!plugins/Nael-NaelsTeamsMod/
+!plugins/Nael-NaelsTeamsMod/**
